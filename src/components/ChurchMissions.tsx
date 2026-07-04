@@ -458,7 +458,7 @@ export default function ChurchMissions({ onBack, onOpenVideo, onOpenBooking, onO
                   <img 
                     className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105 select-none" 
                     alt="Shoe cutting party activity"
-                    src="/images/shoe_cutting_party_1782508448020.jpg"
+                    src="/images/denim.jpg"
                     referrerPolicy="no-referrer"
                   />
                 </div>
