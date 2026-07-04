@@ -475,10 +475,10 @@ export default function ChurchMissions({ onBack, onOpenVideo, onOpenBooking, onO
               <div className="relative group bg-white rounded-2xl border border-deep-ocean/5 shadow-[0_4px_25px_rgba(26,58,92,0.02)] hover:shadow-[0_12px_40px_rgba(26,58,92,0.06)] hover:border-clay/20 hover:-translate-y-1 transition-all duration-300 flex flex-col overflow-hidden h-full">
                 <div className="relative aspect-[4/3] overflow-hidden bg-[#FAF7F2] shrink-0">
                   <img 
-                    className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105 select-none" 
-                    alt="Smiling Ugandan child with blue sneakers"
-                    src="https://lh3.googleusercontent.com/aida-public/AB6AXuDH3F7iCJc1rHTyRbHgFvHRREvjrgZO9NbDI6SUQD-SXtTx8Q6lFhBOOFnukgqIlTXf5yxKgat9zAsuHC0qwhCmqasCDjTqHHK5TgtQl1osNzHUyHGN63wSkUOCsKCgaOlCGKndF2x3kBP_zLWUhG_28TTnWSHuKrQbYOAEJOhi4tt9bUg7GqwURZGj0ViLaWtorOJ9Srmh5g6JKswDgjb64Q_bnjkAX3JioQs0GkXjA0dFIoUshyqik54nHFVOzmIFWmPb_eH8H1HBbg"
-                  />
+  className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105 select-none" 
+  alt="Shoe cutting party activity"
+  src="/images/corporate_volunteering_1782505474243.jpg"
+/>
                 </div>
                 <div className="p-6 flex flex-col flex-grow space-y-4">
                   <div className="w-10 h-10 rounded-full bg-clay text-white flex items-center justify-center font-serif text-base font-bold shadow-sm">
