@@ -361,7 +361,7 @@ export default function CorporateMissions({ onBack, onOpenBooking, onOpenVideo, 
               <div className="bg-white rounded-2xl border border-deep-ocean/5 shadow-[0_4px_25px_rgba(26,58,92,0.02)] hover:shadow-[0_12px_40px_rgba(26,58,92,0.06)] hover:border-clay/20 transition-all duration-300 flex flex-col overflow-hidden group">
                 <div className="relative aspect-[4/3] overflow-hidden bg-[#FAF7F2] shrink-0">
                   <img 
-                    src="/images/sole_hope_business_1782426623747.jpg" 
+                    src="/images/corporate_impact_children_1783128969767.jpg" 
                     alt="CSR With Purpose" 
                     className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
                     referrerPolicy="no-referrer"
@@ -379,7 +379,7 @@ export default function CorporateMissions({ onBack, onOpenBooking, onOpenVideo, 
               <div className="bg-white rounded-2xl border border-deep-ocean/5 shadow-[0_4px_25px_rgba(26,58,92,0.02)] hover:shadow-[0_12px_40px_rgba(26,58,92,0.06)] hover:border-clay/20 transition-all duration-300 flex flex-col overflow-hidden group">
                 <div className="relative aspect-[4/3] overflow-hidden bg-[#FAF7F2] shrink-0">
                   <img 
-                    src="/images/regenerated_image_1782514430165.jpg" 
+                    src="/images/holistic_care_outreach_1783126149423.jpg" 
                     alt="Simple to Organize" 
                     className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
                     referrerPolicy="no-referrer"
